@@ -1,2 +1,2 @@
 git is a version sys.
-git is free.
+git is free software under GPL.
